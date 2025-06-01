@@ -1,50 +1,50 @@
-2025-06-01 11:28:16 [main] DEBUG api.Test.UserTestsUsingPojo - Setup Data Completed: api.Payload.User@1ee5632d
-2025-06-01 11:28:16 [main] INFO  api.Test.UserTestsUsingPojo - ******POST USER START********
-2025-06-01 11:28:16 [main] DEBUG api.Test.UserTestsUsingPojo - Payload before POST: api.Payload.User@1ee5632d
-2025-06-01 11:28:19 [main] DEBUG api.Test.UserTestsUsingPojo - Response Status Code: 201
-2025-06-01 11:28:19 [main] DEBUG api.Test.UserTestsUsingPojo - Response Body: {
-  "id": "d581",
-  "name": "kurt.quitzon",
+2025-06-01 12:15:22 [main] DEBUG api.Test.UserTestsUsingPojo - Setup Data Completed: api.Payload.User@7e3d2ebd
+2025-06-01 12:15:22 [main] INFO  api.Test.UserTestsUsingPojo - ******POST USER START********
+2025-06-01 12:15:22 [main] DEBUG api.Test.UserTestsUsingPojo - Payload before POST: api.Payload.User@7e3d2ebd
+2025-06-01 12:15:25 [main] DEBUG api.Test.UserTestsUsingPojo - Response Status Code: 201
+2025-06-01 12:15:25 [main] DEBUG api.Test.UserTestsUsingPojo - Response Body: {
+  "id": "39a5",
+  "name": "ludivina.huel",
   "yearsOld": 18,
-  "location": "West Dagnytown",
-  "phone": "(138) 533-5036",
+  "location": "South Quinn",
+  "phone": "183.438.9890",
   "courses": [
     "API",
     "PostMan"
   ]
 }
-2025-06-01 11:28:21 [main] INFO  api.Test.UserTestsUsingPojo - ******POST USER FINISH********
-2025-06-01 11:28:21 [main] INFO  api.Test.UserTestsUsingPojo - ******GET USER START********
-2025-06-01 11:28:21 [main] DEBUG api.Test.UserTestsUsingPojo - Getting user with ID: d581
-2025-06-01 11:28:22 [main] DEBUG api.Test.UserTestsUsingPojo - Response Status Code: 200
-2025-06-01 11:28:22 [main] DEBUG api.Test.UserTestsUsingPojo - Response Body: {
-  "id": "d581",
-  "name": "kurt.quitzon",
+2025-06-01 12:15:26 [main] INFO  api.Test.UserTestsUsingPojo - ******POST USER FINISH********
+2025-06-01 12:15:26 [main] INFO  api.Test.UserTestsUsingPojo - ******GET USER START********
+2025-06-01 12:15:27 [main] DEBUG api.Test.UserTestsUsingPojo - Getting user with ID: 39a5
+2025-06-01 12:15:27 [main] DEBUG api.Test.UserTestsUsingPojo - Response Status Code: 200
+2025-06-01 12:15:27 [main] DEBUG api.Test.UserTestsUsingPojo - Response Body: {
+  "id": "39a5",
+  "name": "ludivina.huel",
   "yearsOld": 18,
-  "location": "West Dagnytown",
-  "phone": "(138) 533-5036",
+  "location": "South Quinn",
+  "phone": "183.438.9890",
   "courses": [
     "API",
     "PostMan"
   ]
 }
-2025-06-01 11:28:22 [main] INFO  api.Test.UserTestsUsingPojo - ******GET USER FINISH********
-2025-06-01 11:28:22 [main] INFO  api.Test.UserTestsUsingPojo - ******UPDATE USER START********
-2025-06-01 11:28:22 [main] DEBUG api.Test.UserTestsUsingPojo - Payload before UPDATE: api.Payload.User@1ee5632d
-2025-06-01 11:28:22 [main] DEBUG api.Test.UserTestsUsingPojo - Response Status Code: 200
-2025-06-01 11:28:22 [main] DEBUG api.Test.UserTestsUsingPojo - Response Body: {
-  "name": "charlyn.heidenreich",
+2025-06-01 12:15:27 [main] INFO  api.Test.UserTestsUsingPojo - ******GET USER FINISH********
+2025-06-01 12:15:27 [main] INFO  api.Test.UserTestsUsingPojo - ******UPDATE USER START********
+2025-06-01 12:15:27 [main] DEBUG api.Test.UserTestsUsingPojo - Payload before UPDATE: api.Payload.User@7e3d2ebd
+2025-06-01 12:15:27 [main] DEBUG api.Test.UserTestsUsingPojo - Response Status Code: 200
+2025-06-01 12:15:27 [main] DEBUG api.Test.UserTestsUsingPojo - Response Body: {
+  "name": "mervin.rosenbaum",
   "yearsOld": 18,
-  "location": "Port Genia",
-  "phone": "(138) 533-5036",
+  "location": "Gislasonhaven",
+  "phone": "183.438.9890",
   "courses": [
     "API",
     "PostMan"
   ],
-  "id": "d581"
+  "id": "39a5"
 }
-2025-06-01 11:28:22 [main] INFO  api.Test.UserTestsUsingPojo - ******UPDATE USER FINISH********
-2025-06-01 11:28:22 [main] INFO  api.Test.UserTestsUsingPojo - ******DELETE USER START********
-2025-06-01 11:28:22 [main] DEBUG api.Test.UserTestsUsingPojo - Deleting user with ID: d581
-2025-06-01 11:28:22 [main] DEBUG api.Test.UserTestsUsingPojo - Response Status Code: 200
-2025-06-01 11:28:22 [main] INFO  api.Test.UserTestsUsingPojo - ******DELETE USER FINISH********
+2025-06-01 12:15:27 [main] INFO  api.Test.UserTestsUsingPojo - ******UPDATE USER FINISH********
+2025-06-01 12:15:27 [main] INFO  api.Test.UserTestsUsingPojo - ******DELETE USER START********
+2025-06-01 12:15:27 [main] DEBUG api.Test.UserTestsUsingPojo - Deleting user with ID: 39a5
+2025-06-01 12:15:27 [main] DEBUG api.Test.UserTestsUsingPojo - Response Status Code: 200
+2025-06-01 12:15:27 [main] INFO  api.Test.UserTestsUsingPojo - ******DELETE USER FINISH********

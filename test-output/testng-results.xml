@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-01T11:21:54 IST" name="Suite" finished-at="2025-06-01T11:22:07 IST" duration-ms="13286">
+  <suite started-at="2025-06-01T12:15:20 IST" name="Suite" finished-at="2025-06-01T12:15:27 IST" duration-ms="6578">
     <groups>
     </groups>
-    <test started-at="2025-06-01T11:21:54 IST" name="Test" finished-at="2025-06-01T11:22:07 IST" duration-ms="13286">
+    <test started-at="2025-06-01T12:15:20 IST" name="Test" finished-at="2025-06-01T12:15:27 IST" duration-ms="6578">
       <class name="api.Test.UserTestsUsingPojo">
-        <test-method is-config="true" signature="setupData()[pri:0, instance:api.Test.UserTestsUsingPojo@5542c4ed]" started-at="2025-06-01T11:21:55 IST" name="setupData" finished-at="2025-06-01T11:21:57 IST" duration-ms="1798" status="PASS">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.Test.UserTestsUsingPojo@815b41f]" started-at="2025-06-01T12:15:21 IST" name="setupData" finished-at="2025-06-01T12:15:22 IST" duration-ms="1119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupData -->
-        <test-method signature="createNewUser()[pri:1, instance:api.Test.UserTestsUsingPojo@5542c4ed]" started-at="2025-06-01T11:21:57 IST" name="createNewUser" finished-at="2025-06-01T11:22:07 IST" duration-ms="10060" status="PASS">
+        <test-method signature="createNewUser()[pri:1, instance:api.Test.UserTestsUsingPojo@815b41f]" started-at="2025-06-01T12:15:22 IST" name="createNewUser" finished-at="2025-06-01T12:15:26 IST" duration-ms="4544" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createNewUser -->
-        <test-method signature="getNewUser()[pri:2, instance:api.Test.UserTestsUsingPojo@5542c4ed]" started-at="2025-06-01T11:22:07 IST" name="getNewUser" finished-at="2025-06-01T11:22:07 IST" duration-ms="219" status="PASS">
+        <test-method signature="getNewUser()[pri:2, instance:api.Test.UserTestsUsingPojo@815b41f]" started-at="2025-06-01T12:15:26 IST" name="getNewUser" finished-at="2025-06-01T12:15:27 IST" duration-ms="116" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getNewUser -->
-        <test-method signature="updateNewUser()[pri:3, instance:api.Test.UserTestsUsingPojo@5542c4ed]" started-at="2025-06-01T11:22:07 IST" name="updateNewUser" finished-at="2025-06-01T11:22:07 IST" duration-ms="112" status="PASS">
+        <test-method signature="updateNewUser()[pri:3, instance:api.Test.UserTestsUsingPojo@815b41f]" started-at="2025-06-01T12:15:27 IST" name="updateNewUser" finished-at="2025-06-01T12:15:27 IST" duration-ms="84" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateNewUser -->
-        <test-method signature="deleteNewUser()[pri:4, instance:api.Test.UserTestsUsingPojo@5542c4ed]" started-at="2025-06-01T11:22:07 IST" name="deleteNewUser" finished-at="2025-06-01T11:22:07 IST" duration-ms="121" status="PASS">
+        <test-method signature="deleteNewUser()[pri:4, instance:api.Test.UserTestsUsingPojo@815b41f]" started-at="2025-06-01T12:15:27 IST" name="deleteNewUser" finished-at="2025-06-01T12:15:27 IST" duration-ms="79" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteNewUser -->
